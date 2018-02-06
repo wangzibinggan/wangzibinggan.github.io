@@ -1,2 +1,0 @@
-# wangzibinggan.github.io
-demo
